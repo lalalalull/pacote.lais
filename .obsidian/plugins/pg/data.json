@@ -1,0 +1,17 @@
+{
+  "connections": [
+    {
+      "id": "7d4bb57d-41fb-4ddc-862b-bf4f49980157",
+      "name": "",
+      "host": "localhost",
+      "port": 5432,
+      "database": "postgres",
+      "user": "postgres",
+      "password": "newkitty",
+      "sslMode": "disable",
+      "connectionTimeoutMs": 10000,
+      "createdAt": 1791448414566
+    }
+  ],
+  "defaultConnectionId": "7d4bb57d-41fb-4ddc-862b-bf4f49980157"
+}

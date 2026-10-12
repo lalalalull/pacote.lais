@@ -31,3 +31,6 @@ vertices2(list(c(1,2,3),c(4,5,6),c(2,2,2)),T,c(11,-3,2))
 vertices2(list(c(1,2,-4,5),c(-3,4,-5,2),c(7,8,5,9),c(-3,-3,-5,6)),F,0)
 vertices2(list(c(1,0,0),c(0,1,0),c(0,0,1)),F,0)
 }
+\concept{algebra}
+\concept{combinatoria}
+\concept{geogebra}

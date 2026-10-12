@@ -20,3 +20,4 @@ aritmética modular e polígonos estrelados.
 submultiplos(110)
 submultiplos(12000)
 }
+\concept{combinatoria}

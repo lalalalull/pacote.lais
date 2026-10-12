@@ -1,4 +1,41 @@
-url: ~
+url: https://lalalalull.github.io/pacote.lais
 template:
   bootstrap: 5
+  bootswatch: minty
+reference:
+
+  - title: "Combinatória e Aritmética"
+    desc: "Funções de combinatória ou de aritmética"
+    contents:
+      - has_concept("combinatoria")
+
+  - title: "Álgebra Linear e álgebra no geral"
+    desc: "Funções para cálculo vetorial, matrizes, sistemas de equações ou problemas algébricos"
+    contents:
+      - has_concept("algebra")
+
+  - title: "Probabilidade e Estatística"
+    desc: "Funções para análise combinatória, distribuições e simulações."
+    contents:
+      - has_concept("probabilidade")
+
+  - title: "Geogebra"
+    desc: "Funções que possuem visualização no geogebra"
+    contents:
+      - has_concept("geogebra")
+
+  - title: "Utilitários R"
+    desc: "Funções que o único propósito é facilitar a manipulação em R"
+    contents:
+      - has_concept("R_utilitario")
+
+  - title: "Cálculo"
+    desc: "Funções que possuem relação direta ou não com Cálculo"
+    contents:
+      - has_concept("calculo")
+
+  - title: "LaTeX"
+    desc: "Funções que possuem relação com a formatação LaTeX"
+    contents:
+      - has_concept("latex")
 

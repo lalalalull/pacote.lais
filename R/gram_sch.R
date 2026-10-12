@@ -3,6 +3,8 @@
 #' o processo consiste em subtrair projeções que os vetores têm entre si para que o
 #' resultado final seja o de vetores ortogonais entre si.
 #' @param v lista de vetores
+#' @concept algebra
+#' @concept combinatoria
 #' @return lista de vetores
 #' @export
 #' @examples

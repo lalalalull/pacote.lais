@@ -23,3 +23,5 @@ Função que gera bases aleatórias de um espaço vetorial.
 gerador_de_bases(3,T)
 gerador_de_bases(4,F)
 }
+\concept{algebra}
+\concept{geogebra}

@@ -22,3 +22,5 @@ resultado final seja o de vetores ortogonais entre si.
 gram_sch<-function(list(c(1,3,1),c(1,1,1),c(1,3,4)))
 gram_sch<-function(list(c(1,2),c(3,4)))
 }
+\concept{algebra}
+\concept{combinatoria}

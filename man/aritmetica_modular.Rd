@@ -17,3 +17,4 @@ retorna o elemento da posição dada
 \description{
 Aritmética modular se refere à sequências cíclicas do tipo 1-2-3-1-2-3-1... A função retorna o elemento que está na posição pos.
 }
+\concept{combinatoria}

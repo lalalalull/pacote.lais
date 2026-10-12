@@ -20,3 +20,5 @@ função que retorna círculo no geogebra 2d
 \examples{
 geogebra_circ(c(1,2),0.5)
 }
+\concept{algebra}
+\concept{geogebra}

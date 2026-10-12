@@ -1,6 +1,7 @@
 #' @title Lista de binários de escolhas de (n 0) até (n n)
 #' @param cardi cardinalidade do conjunto
 #' @return lista de binários
+#' @concept combinatoria
 #' @examples
 #' binarios_escolhas(5)
 #' @export

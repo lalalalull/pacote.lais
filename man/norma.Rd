@@ -19,3 +19,4 @@ Função que retorna a norma do vetor
 norma(c(-4,-5,2))
 norma(c(-1,2))
 }
+\concept{algebra}

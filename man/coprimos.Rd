@@ -15,3 +15,4 @@ Função que retorna coprimos de um número
 \examples{
 coprimos(48)
 }
+\concept{combinatoria}

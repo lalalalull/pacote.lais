@@ -5,6 +5,7 @@
 #' @param acumula_quo quocientes acumulados
 #' @param acumula_r restos acumulados
 #' @param mdc se deseja o mdc TRUE ou FALSE
+#' @concept combinatoria
 #' @return
 #' Se mdc=T a função retorna o mdc;
 #' Se mdc=F a função retorna o caminho de quocientes e restos até o mdc.

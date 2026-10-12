@@ -5,6 +5,8 @@
 #' @param lista caso queira que retorna base em forma de lista (F)
 #' @return se geogebra==F, retorna matriz, se geogebra==T retorna lista de characters
 #' @export
+#' @concept algebra
+#' @concept geogebra
 #' @examples
 #' gerador_de_bases(3,T)
 #' gerador_de_bases(4,F)

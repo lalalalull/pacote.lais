@@ -3,6 +3,7 @@
 #' @param print logical se você quer printar o triângulo para visualização ou não
 #' @return retorna matriz com triângulo de Pascal até o valor cardi
 #' @export
+#' @concept combinatoria
 #' @examples
 #' Triangulo_Pascal(5,T)
 #' Triangulo_Pascal(6,F)

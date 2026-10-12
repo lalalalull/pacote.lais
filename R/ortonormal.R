@@ -3,6 +3,7 @@
 #' ortonormal.
 #' @param base_ lista de vetores que formam uma base
 #' @return base ortonormal numa lista de vetores
+#' @concept algebra
 #' @export
 #' @examples
 #' ortonormal(list(c(1,2,0),c(0,1,1),c(4,4,2)))

@@ -2,6 +2,7 @@
 #' @description
 #' Função baseada no crivo de Eratóstenes, retorna todos os primos menores ou iguais a um certo número.
 #' @param num Número limite para os primos
+#' @concept combinatoria
 #' @return retorna array com todos os primos até esse número
 #' @export
 crivo_eratostenes<-function(num){

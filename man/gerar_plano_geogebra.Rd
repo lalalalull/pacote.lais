@@ -22,3 +22,5 @@ Função que recebe 1 ponto e 2 vetores que formam um plano e retorna a notaçã
 \examples{
 gerar_plano_geogebra(c(0,0,0),c(1,2,3),c(4,5,6))
 }
+\concept{algebra}
+\concept{geogebra}

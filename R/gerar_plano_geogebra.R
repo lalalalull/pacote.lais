@@ -2,6 +2,8 @@
 #' @param p ponto que pertence ao plano, se for um espaço vetorial use (0,0,0), se o foco é apenas a inclinação do plano use (0,0,0) também. Para planos deslocados/paralelos use um ponto qualquer do plano.
 #' @param vet1 vetor diretor 1
 #' @param vet2 vetor diretor 2
+#' @concept algebra
+#' @concept geogebra
 #' @return retorna o plano gerado na notação do geogebra
 #' @export
 #' @examples

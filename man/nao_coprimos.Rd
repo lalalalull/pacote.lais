@@ -21,3 +21,4 @@ Conferir se dois números não são coprimos
 nao_coprimos(127,34)
 nao_coprimos(281,77)
 }
+\concept{combinatoria}

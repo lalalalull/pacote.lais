@@ -3,6 +3,7 @@
 #' @param n1 numero 1
 #' @param n2 numero 2
 #' @return logical(1)
+#' @concept combinatoria
 #' @examples
 #' nao_coprimos(127,34)
 #' nao_coprimos(281,77)

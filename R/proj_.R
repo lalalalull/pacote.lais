@@ -3,6 +3,7 @@
 #' @param v vetor que está sendo projetado
 #' @param u vetor que recebe a projeção
 #' @return vetor projeção
+#' @concept algebra
 #' @export
 #' @examples
 #' proj_(c(1,2,3),c(4,3,3))

@@ -31,3 +31,6 @@ vir acompanhada da imagem ou do domínio em forma de janela html com leitor Math
 Resolver_Sistema_Linear(matrix(c(1, 2, -1, 3, 2, 5,  1, 7, 3, 7,  0, 10), nrow = 3, byrow = TRUE),F,T,T)
 Resolver_Sistema_Linear(matrix(c( 2, -4,  6,  8, -1,  2, -3, -4,3, -6,  9, 12), nrow = 3, byrow = TRUE),T,F,T)
 }
+\concept{algebra}
+\concept{geogebra}
+\concept{latex}

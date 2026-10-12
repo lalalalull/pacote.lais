@@ -6,6 +6,8 @@
 #' @param ponto logical que indica se a notação é de ponto (F)
 #' @return retorna lista character com a notação do geogebra
 #' @export
+#' @concept geogebra
+#' @concept algebra
 #' @examples
 #' geogebra_(list(c(1, 2, 3), c(3, 4, 5)),F,T)
 #' geogebra_(list(c(1, 2), c(3, 4, 5),c(7,7,1)),T,F)

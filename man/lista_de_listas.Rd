@@ -20,3 +20,4 @@ Conferir se lista está dentro da lista de listas
 \examples{
 lista_de_listas(list(c(1,2,3),c(4,5,6)), list(list(c(1,2,3)),list(c(5,6,7),c(4,4,4),c(1,1))))
 }
+\concept{R_utilitario}

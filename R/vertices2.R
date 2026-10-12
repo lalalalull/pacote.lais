@@ -5,6 +5,9 @@
 #' @param lista_v lista de vetores ou matriz que formam o paralelepípedo
 #' @param geogebra logical, caso deseje a notação do geogebra
 #' @param inicial ponto de origem do hiperplano, é 0 se começa em (0,0,0)
+#' @concept algebra
+#' @concept combinatoria
+#' @concept geogebra
 #' @return retorna matriz de listas com todos os vértices e matriz de listas com todos os segmentos organizados
 #' por colunas, em que o elemento da primeira linha é o vértice e os abaixo são os que se conectam à ele dois a
 #' dois. Se geogebra=T, retorna lista character dos segmentos com a notação do geogebra.

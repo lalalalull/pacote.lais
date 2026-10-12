@@ -2,6 +2,7 @@
 #' @param seq_circ sequência em array
 #' @param pos posição que você quer
 #' @return retorna o elemento da posição dada
+#' @concept combinatoria
 #' @export
 #' @title Posições na Aritmética Modular'
 aritmetica_modular<-function(seq_circ,pos){

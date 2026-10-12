@@ -3,6 +3,7 @@
 #' Função que retorna todos os divisores/submúltiplos primos de um número, útil para estudar
 #' aritmética modular e polígonos estrelados.
 #' @param numero número escolhido
+#' @concept combinatoria
 #' @return retorna array com os números primos que o dividem
 #' @export
 #' @examples

@@ -7,6 +7,8 @@
 #' @param expr função em forma de expression (atenção, coeficientes negativos devem
 #' ser escritos na forma +-a)
 #' @param x valor de x que queremos ver os vetores
+#' @concept calculo
+#' @concept geogebra
 #' @return retorna lista com $Círculos e $Vetores, que são executáveis do geogebra.
 #' @examples
 #' vetores_vel_ac(expression(x^2),-0.3)

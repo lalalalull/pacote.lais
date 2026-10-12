@@ -9,3 +9,5 @@ plano_geo(vet1, vet2, ponto = c(0, 0, 0))
 \description{
 Função para Plano(ponto,vetor,vetor) no geogebra
 }
+\concept{algebra}
+\concept{geogebra}

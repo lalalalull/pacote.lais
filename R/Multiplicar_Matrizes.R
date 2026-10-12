@@ -2,6 +2,8 @@
 #' @param A primeira matriz
 #' @param B segunda matriz
 #' @return retorna a matriz resultante
+#' @concept algebra
+#' @concept combinatoria
 #' @export
 #' @title Multiplicar_Matrizes
 Multiplicar_Matrizes<-function(A,B){

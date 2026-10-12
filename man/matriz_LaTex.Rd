@@ -15,3 +15,5 @@ retorna sua notação em LaTex, faltando as cifras $ $
 \description{
 Função que recebe uma matriz e retorna sua notação em formato LaTex
 }
+\concept{algebra}
+\concept{latex}

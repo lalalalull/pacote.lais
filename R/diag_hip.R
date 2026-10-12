@@ -6,6 +6,8 @@
 #' Pode ser uma lista de vetores ou matriz
 #' @param inicial
 #' Ponto inicial c(), indica a origem onde o objeto começa, 0 se for na origem.(=0)
+#' @concept algebra
+#' @concept geogebra
 #' @return
 #' Retorna tudo como executáveis do geogebra
 #' @export

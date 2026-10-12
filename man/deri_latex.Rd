@@ -27,3 +27,6 @@ deri_latex('a',"x^2+2x",deri=F)
 deri_latex(2,"x^2+2.x")
 deri_latex(3,"x^2+2x",forma_h=T)
 }
+\concept{algebra}
+\concept{calculo}
+\concept{latex}

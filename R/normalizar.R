@@ -5,6 +5,8 @@
 #' @param arredondar se deseja arredondar (T)
 #' @param matriz se deseja retornar matriz (F)
 #' @param geogebra se deseja retornar executável (F)
+#' @concept algebra
+#' @concept geogebra
 #' @return
 #' 1. lista de vetores normalizados com coordenadas arredondadas.
 #' 2. matriz com vetores normalizados

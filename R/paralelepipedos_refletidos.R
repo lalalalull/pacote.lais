@@ -3,6 +3,8 @@
 #' projetada em diferentes bases, em que as dimensões podem estar refletidas ou não.
 #' @param matriz matriz
 #' @return lista de executáveis do geogebra com atributo $Matriz_do_espaço
+#' @concept algebra
+#' @concept geogebra
 #' @examples
 #' paralelepipedos_refletidos(matrix(c(1,2,0,0,-1,-2,1,3,3),ncol=3))
 #' @export

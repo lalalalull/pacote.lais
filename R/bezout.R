@@ -6,6 +6,7 @@
 #' @examples
 #' bezout(333,45)
 #' bezout(334,124)
+#' @concept combinatoria
 #' @export
 bezout<-function(n_maior,n_menor){
   mdc<-mdc(n_maior,n_menor,mdc=F)

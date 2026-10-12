@@ -23,3 +23,5 @@ Use o pacote rgl caso não queira visualizar no geogebra.
 \examples{
 TL(matrix(c(0,1,0,1,0,0,0,0,1),ncol=3),matrix(c(1,2,3,1,-1,1),ncol=2),T)
 }
+\concept{algebra}
+\concept{geogebra}

@@ -1,6 +1,8 @@
 #' Função que retorna TRUE ou FALSE para responder se a base é levógira ou não, a base precisa estar escalonada com as colunas/linhas em suas devidas posições, como as matrizes que a função matrizes_leibniz gera.
 #' @param matriz a matriz com a base que queremos saber se tem padrão levógiro
 #' @return TRUE para levógira, FALSE para destrógira
+#' @concept algebra
+#' @concept combinatoria
 #' @export
 #' @title Saber se a base é destrógira ou não
 levogiro<-function(matriz){

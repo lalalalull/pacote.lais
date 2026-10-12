@@ -18,3 +18,4 @@ Lista de binários de escolhas de (n 0) até (n n)
 \examples{
 binarios_escolhas(5)
 }
+\concept{combinatoria}

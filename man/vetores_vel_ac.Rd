@@ -25,3 +25,5 @@ $Círculos e $Vetores
 vetores_vel_ac(expression(x^2),-0.3)
 vetores_vel_ac(expression(x^3),-0.3)
 }
+\concept{calculo}
+\concept{geogebra}

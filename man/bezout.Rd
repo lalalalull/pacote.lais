@@ -21,3 +21,4 @@ O algoritmo estendido de euclides para achar x e y tal que ax+by=mdc(a,b)
 bezout(333,45)
 bezout(334,124)
 }
+\concept{combinatoria}

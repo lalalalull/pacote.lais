@@ -24,3 +24,5 @@ executável), podendo ser notação de ponto ou de vetor.
 geogebra_(list(c(1, 2, 3), c(3, 4, 5)),F,T)
 geogebra_(list(c(1, 2), c(3, 4, 5),c(7,7,1)),T,F)
 }
+\concept{algebra}
+\concept{geogebra}

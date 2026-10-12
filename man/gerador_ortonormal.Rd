@@ -26,3 +26,5 @@ gerador_ortonormal(3,T,T)
 gerador_ortonormal(4,F,F)
 gerador_ortonormal(2,F,T)
 }
+\concept{algebra}
+\concept{geogebra}

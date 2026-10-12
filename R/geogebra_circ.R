@@ -7,6 +7,8 @@
 #' @param centro array do centro do círculo c(x,y)
 #' @param raio comprimento do raio
 #' @return retorna circle(centro,raio)
+#' @concept geogebra
+#' @concept algebra
 #' @examples
 #' geogebra_circ(c(1,2),0.5)
 #' @export

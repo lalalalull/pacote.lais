@@ -34,3 +34,4 @@ O algoritmo de Euclides para encontrar o mdc se trata de colocar em evidência o
 mdc(334,124)
 mdc(120,36,mdc=F)
 }
+\concept{combinatoria}

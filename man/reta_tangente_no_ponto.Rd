@@ -30,3 +30,5 @@ argumentos x_.
 \examples{
 reta_tangente_no_ponto(expression(x^2+3),c(0.3,-2))
 }
+\concept{calculo}
+\concept{geogebra}

@@ -21,3 +21,4 @@ ortonormal.
 ortonormal(list(c(1,2,0),c(0,1,1),c(4,4,2)))
 ortonormal(list(c(1,2),c(0,3)))
 }
+\concept{algebra}

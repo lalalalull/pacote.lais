@@ -25,3 +25,5 @@ Função que recebe duas matrizes e as multiplica
 \item \code{Pode_Multiplicar()}: retorna true ou false para dizer se dá pra multiplicar as duas matrizes ou não.
 
 }}
+\concept{algebra}
+\concept{combinatoria}

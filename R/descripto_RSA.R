@@ -2,6 +2,7 @@
 #' @param mensagem mensagem character(1)
 #' @param d chave privada
 #' @param n número grande resultado da multiplicação dos dois primos grandes
+#' @concept combinatoria
 #' @return Retorna mensagem descriptografada character(1)
 #' @examples
 #' descripto_RSA("࿖ᔐ",11083,14803)

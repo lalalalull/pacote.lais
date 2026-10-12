@@ -21,3 +21,5 @@ A função recebe um polinômio e retorna sua derivada.
 der_poli2(expression(-2*x^2+-3*x^4))
 der_poli2(der_poli2(expression(-2*x^2+-3*x^4)))
 }
+\concept{algebra}
+\concept{calculo}

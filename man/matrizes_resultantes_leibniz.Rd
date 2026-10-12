@@ -27,3 +27,5 @@ A função faz isso recebendo uma matriz e mapeando suas possibilidades do jogo 
 \examples{
 matrizes_resultantes_leibniz(matrix(c(1,1,1,1),ncol=2))
 }
+\concept{algebra}
+\concept{combinatoria}

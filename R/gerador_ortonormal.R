@@ -6,6 +6,8 @@
 #' @param arredondar argumento logical, se você quer arredondar os valores ou não
 #' @return retorna base ortonormal em forma de lista numérica ou character
 #' @export
+#' @concept algebra
+#' @concept geogebra
 #' @examples
 #' gerador_ortonormal(3,T,T)
 #' gerador_ortonormal(4,F,F)

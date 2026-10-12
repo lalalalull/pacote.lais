@@ -3,6 +3,8 @@
 #' @param vetor logical que indica se são vetores (F)
 #' @param segmento logical que indica se são segmentos (T)
 #' @return retorna character de executável, que pode ser "limpado" usando a função cat()
+#' @concept geogebra
+#' @concept algebra
 #' @export
 #' @title Criar executáveis de dois pontos que se ligam no geogebra
 executar_geogebra_ligar<-function(lista_p,vetor = F,segmento = T,reta=F){

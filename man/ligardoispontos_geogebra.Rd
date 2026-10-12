@@ -34,3 +34,5 @@ Função feita para ligar dois pontos no geogebra utilizando a sintaxe adequada
 ligardoispontos_geogebra(c(1,2,3),c(-1,-3,4),T,F,T)
 ligardoispontos_geogebra(c(1,2,),c(-1,-3,),F,T,F)
 }
+\concept{algebra}
+\concept{geogebra}

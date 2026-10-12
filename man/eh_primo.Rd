@@ -15,3 +15,4 @@ logical(1)
 \description{
 Função que retorna se é primo
 }
+\concept{combinatoria}

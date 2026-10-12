@@ -30,3 +30,5 @@ significa fazer com que sua norma seja igual à 1.
 normalizar(list(c(1,2,3),c(4,5,6)))
 normalizar(list(c(1,2),c(1,4,5,6)))
 }
+\concept{algebra}
+\concept{geogebra}

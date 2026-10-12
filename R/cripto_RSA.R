@@ -3,6 +3,7 @@
 #' @param chave_publica chave pública escolhida
 #' @param primo_1 número primo grande
 #' @param primo_2 número primo grande
+#' @concept combinatoria
 #' @return retorna lista com: msg (mensagem criptografada), tamanho_relogio (primo_1*primo_2) e chave privada d.
 #' @examples
 #' cripto_RSA('oi',67,113,131)

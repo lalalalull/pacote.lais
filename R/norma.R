@@ -2,6 +2,7 @@
 #' @param v vetor
 #' @return vetor norma, tamanho 1
 #' @export
+#' @concept algebra
 #' @examples
 #' norma(c(-4,-5,2))
 #' norma(c(-1,2))

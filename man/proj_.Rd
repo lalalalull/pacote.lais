@@ -22,3 +22,4 @@ A função retorna a projeção ortogonal de um vetor sob o outro
 proj_(c(1,2,3),c(4,3,3))
 proj_(c(7,7,8,5),c(4,3,2,1))
 }
+\concept{algebra}

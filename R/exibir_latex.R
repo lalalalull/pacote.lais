@@ -3,6 +3,7 @@
 #' @param codigo_tex é o código LaTex
 #' @return tela html com o código lido
 #' @export
+#' @concept latex
 #' @title Tela HTML que lê LaTex
 exibir_latex <- function(codigo_tex) {
   # Monta uma página HTML mínima com o leitor MathJax

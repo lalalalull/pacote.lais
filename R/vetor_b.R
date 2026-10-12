@@ -3,6 +3,7 @@
 #' @param v vetor
 #' @return vetor base [v]_B
 #' @export
+#' @concept algebra
 #' @examples
 #' vetor_b(matrix(c(0,1,0,0,0,1,1,0,0),ncol=3),c(-1,2,-2))
 #' vetor_b(matrix(c(1,0,0,0,0,1,0,1,0),ncol=3),c(2,1,0))

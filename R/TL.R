@@ -3,6 +3,8 @@
 #' @param T_ matriz de transformação linear
 #' @param m matriz que será transformada
 #' @param geogebra logical, se deseja visualizar no geogebra ou não
+#' @concept algebra
+#' @concept geogebra
 #' @return retorna a matriz transformada e imprime as coordenadas no geogebra (se geogebra=T) ou mostra gráfico com espaço/subespaço transformado
 #' @export
 #' @examples

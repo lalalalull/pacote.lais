@@ -1,7 +1,7 @@
-
 #' @title Coprimos de um número
 #' @description Função que retorna coprimos de um número
 #' @param numero numero int
+#' @concept combinatoria
 #' @examples
 #' coprimos(48)
 #' @export

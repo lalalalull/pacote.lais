@@ -15,3 +15,4 @@ retorna array com todos os primos até esse número
 \description{
 Função baseada no crivo de Eratóstenes, retorna todos os primos menores ou iguais a um certo número.
 }
+\concept{combinatoria}

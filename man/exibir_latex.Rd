@@ -16,3 +16,4 @@ tela html com o código lido
 Função que exibe o código LaTex em uma página html com o leitor MathJax.
 Diferente das outras funções, essa foi o gemini que fez pra mim sem usar nenhum pacote.
 }
+\concept{latex}

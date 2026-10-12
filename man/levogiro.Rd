@@ -15,3 +15,5 @@ TRUE para levógira, FALSE para destrógira
 \description{
 Função que retorna TRUE ou FALSE para responder se a base é levógira ou não, a base precisa estar escalonada com as colunas/linhas em suas devidas posições, como as matrizes que a função matrizes_leibniz gera.
 }
+\concept{algebra}
+\concept{combinatoria}

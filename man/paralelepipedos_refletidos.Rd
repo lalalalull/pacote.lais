@@ -28,3 +28,5 @@ possíveis com colunas negativas de (n 0) até (n n).
 \examples{
 paralelepipedos_refletidos(matrix(c(1,2,0,0,-1,-2,1,3,3),ncol=3))
 }
+\concept{algebra}
+\concept{geogebra}

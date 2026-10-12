@@ -8,6 +8,9 @@
 #' @param deri logical que indica se você quer derivada (se deri=F, então limite)
 #' @param forma_h logical que indica se você quer a notação limh->0[f(x+h)/h], não precisa ser declarado se deri=F.
 #' @return retorna página html exibindo em LaTex a expressão
+#' @concept calculo
+#' @concept algebra
+#' @concept latex
 #' @examples
 #' deri_latex('a',"x^2+2x",deri=F)
 #' deri_latex(2,"x^2+2.x")

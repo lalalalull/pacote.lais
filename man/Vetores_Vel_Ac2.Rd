@@ -21,3 +21,5 @@ retornar vetores de aceleração e derivada no geogebra
 \examples{
 Vetores_Vel_Ac2(expression(x^2),0.2)
 }
+\concept{calculo}
+\concept{geogebra}

@@ -1,6 +1,7 @@
 #' A função é usada acompanhada de Det_Leibniz, serve para transformar todos as possibilidades mapeadas em matrizes.
 #' A função faz isso recebendo uma matriz e mapeando suas possibilidades do jogo de Leibniz.
-#'
+#' @concept algebra
+#' @concept combinatoria
 #' @param matriz Uma matriz
 #' @return retorna uma lista de matrizes
 #' @export

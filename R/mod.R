@@ -1,6 +1,7 @@
 #' @title Módulo da posição, aritmética modular
 #' @param tamanho_ciclo tamanho do ciclo, ex: c("a","b","c") tem tamanho 3
 #' @param pos posição
+#' @concept combinatoria
 #' @return Retorna posição no ciclo usando aritmética modular
 #' @examples
 #' mod(45,98)

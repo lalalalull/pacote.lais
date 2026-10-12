@@ -3,6 +3,8 @@
 #' @param x ponto no qual queremos ver os vetores
 #' @return retorna lista com vetores e círculo (caso queira ver pela perspectiva do
 #' movimento circular)
+#' @concept calculo
+#' @concept geogebra
 #' @examples
 #' Vetores_Vel_Ac2(expression(x^2),0.2)
 #' @export

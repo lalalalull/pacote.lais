@@ -5,6 +5,8 @@
 #' @param expr expression do polinômio, deve estar no formato (a*x^n...) e use sinal de +
 #' mesmo que o número seja negativo, ex: +-5.
 #' @return expression da primeira derivada
+#' @concept calculo
+#' @concept algebra
 #' @examples
 #' der_poli2(expression(-2*x^2+-3*x^4))
 #' der_poli2(der_poli2(expression(-2*x^2+-3*x^4)))

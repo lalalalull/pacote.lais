@@ -21,3 +21,4 @@ Função que retorna triângulo de Pascal
 Triangulo_Pascal(5,T)
 Triangulo_Pascal(6,F)
 }
+\concept{combinatoria}

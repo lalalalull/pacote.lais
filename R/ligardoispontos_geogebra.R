@@ -6,6 +6,8 @@
 #' @param executar logical que deixará no formato certo para usar a função executar_geogebra_ligar
 #' @return Retorna a sintaxe do geogebra em forma de segmento ou de vetor
 #' @export
+#' @concept geogebra
+#' @concept algebra
 #' @examples
 #' ligardoispontos_geogebra(c(1,2,3),c(-1,-3,4),T,F,T)
 #' ligardoispontos_geogebra(c(1,2,),c(-1,-3,),F,T,F)

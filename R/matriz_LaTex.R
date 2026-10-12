@@ -1,5 +1,7 @@
 #' Função que recebe uma matriz e retorna sua notação em formato LaTex
 #' @param matriz matriz
+#' @concept latex
+#' @concept algebra
 #' @return retorna sua notação em LaTex, faltando as cifras $ $
 #' @export
 #' @title Matriz em LaTex

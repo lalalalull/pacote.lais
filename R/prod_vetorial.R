@@ -2,6 +2,8 @@
 #' @param lista_v lista de vetores
 #' @param geogebra se você quer a notação do geogebra
 #' @return retorna o produto vetorial em forma de array numérico ou character para o geogebra
+#' @concept algebra
+#' @concept geogebra
 #' @export
 #' @examples
 #' prod_vetorial(list(c(1,0,1),c(0,1,1)),T)

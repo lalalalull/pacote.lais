@@ -5,6 +5,8 @@
 #' negativo escreva na forma +-a)
 #' @param x_ valores de x que queremos ver a reta tangente
 #' @return executável do geogebra
+#' @concept calculo
+#' @concept geogebra
 #' @examples
 #' reta_tangente_no_ponto(expression(x^2+3),c(0.3,-2))
 #' @export

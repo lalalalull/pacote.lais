@@ -33,3 +33,4 @@ Criptografar mensagem
 cripto_RSA('oi',67,113,131)
 cripto_RSA('miau miau nya',653,557,137)
 }
+\concept{combinatoria}

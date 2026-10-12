@@ -22,3 +22,5 @@ podendo estar deslocados da origem ou não. Ela utiliza as matrizes de vertices2
 diag_hip(list(c(0,-1,3),c(9,0,-2),c(3,4,5),c(1,2,3)),c(1,2,3))
 diag_hip(matrix(t(matrix(c(0,-1,3,9,0,-2,3,4,5),ncol=3)),ncol=3),)
 }
+\concept{algebra}
+\concept{geogebra}

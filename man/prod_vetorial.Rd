@@ -22,3 +22,5 @@ prod_vetorial(list(c(1,0,1),c(0,1,1)),T)
 prod_vetorial(list(c(9,9,9),c(11,0,-11)),T)
 prod_vetorial(list(c(10,11,-9,0),c(23,-4,-5,1),c(-8,2,0,2)),F)
 }
+\concept{algebra}
+\concept{geogebra}

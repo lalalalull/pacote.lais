@@ -1,6 +1,8 @@
 # Rotacionar Poliedros em relação aos eixos
 # Descomplica minha vida se essa função receber logo matriz
-
+#' @title Rotacionar em torno de eixos canônicos
+#' @concept algebra
+#' @export
 rotacionar_poli<-function(matriz,eixo,grau){
   rad = rad(grau)
   lista_v<-vector(mode="list")

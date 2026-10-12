@@ -19,3 +19,5 @@ retorna character de executável, que pode ser "limpado" usando a função cat()
 \description{
 Função para retornar executável do geogebra para pontos que se interligam formando vetores ou segmentos. Ela usar a função ligardoispontos_geogebra
 }
+\concept{algebra}
+\concept{geogebra}

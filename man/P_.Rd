@@ -9,3 +9,4 @@ P_(n, vet_r = 1)
 \description{
 \eqn{P_{n}^{k_1,...,k_j}=\frac{n!}{\prod_{s=1}^{j}k_s!}}{}
 }
+\concept{combinatoria}

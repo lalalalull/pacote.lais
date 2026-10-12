@@ -31,7 +31,6 @@ derivadas_1_2
 ... Enfim, primeira mudança: cada função vai ter seu arquivo separadamente. É melhor assim? Eu tenho arquivos que tem mais de 5 funções e isso deixa tudo bagunçado. O que sugere? que cada arquivo tenha 1 função e que o nome dele seja o mesmo do da função?
 A única situação em que vale a pena ter mais de uma função no mesmo arquivo é quando você tem **funções auxiliares internas** (_helper functions_)
 
-![[Pasted image 20261008170259.png|0]]
 ```
 usethis::use_pkgdown()
 # daí, documente assim por exemplo:
@@ -74,3 +73,4 @@ Entender sobre como sites funcionam talvez possa me ajudar na catalogação das 
 ```sql
 select * from ideias;
 ```
+

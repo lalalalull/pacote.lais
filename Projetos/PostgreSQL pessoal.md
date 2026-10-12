@@ -88,7 +88,6 @@ con <- dbConnect(
 # 2. Lê a tabela inteira do PostgreSQL para um data frame do R
 minha_tabela <- dbReadTable(con, "ideias") # substitua pelo nome da sua tabela
 ```
-![[Pasted image 20261008052254.png|427]]
 ```
 library(DBI)
 library(RPostgres)
@@ -151,3 +150,4 @@ Uma das coisas que eu aprendi é que eu posso relacionar a tabela EMENTAS com ID
 
 Tô na seguinte situação: não sei como criar os pacotes no R, eu tenho funções que atendem à diferentes matérias mas que são muito correlacionadas entre si... Como conseguir criar e organizar pacotes com roxygen2 assim?
 
+Como definitivamente a organização do meu postgres também depende do obsidian, vou botar minha pasta obsidian no github [[Usando o Github]]

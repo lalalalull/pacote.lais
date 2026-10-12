@@ -32,6 +32,20 @@
             }
           },
           {
+            "id": "cf319b5d1ec13490",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projetos/PostgreSQL pessoal.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PostgreSQL pessoal"
+            }
+          },
+          {
             "id": "461a978b7a88fa13",
             "type": "leaf",
             "state": {
@@ -49,18 +63,50 @@
             "id": "dffbc2f513fcf452",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
+            }
+          },
+          {
+            "id": "7cbd2dbe227fc56a",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Ideias/Sites HTML, yml, localhost.md",
+                "file": "Ideias/Usando o Github.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sites HTML, yml, localhost"
+              "title": "Usando o Github"
+            }
+          },
+          {
+            "id": "d65033de1740db09",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {},
+              "icon": "calendar-glyph",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "78a3b35abdab18a5",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "PDF's facul/SQL/P2/Projeto_Logico_Colega.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "Projeto_Logico_Colega"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -127,7 +173,128 @@
   "right": {
     "id": "93668e479544f597",
     "type": "split",
-    "children": [],
+    "children": [
+      {
+        "id": "5b940cf05e2226f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8555d5ab7ab8e844",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "PDF's facul/SQL/P2/Administração de Sistemas de Informação – B1 - Especificacao_Trabalho_Parte1.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos"
+            }
+          },
+          {
+            "id": "a1daa05116ff2107",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "PDF's facul/SQL/P2/Administração de Sistemas de Informação – B1 - Especificacao_Trabalho_Parte1.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          },
+          {
+            "id": "e6f7579aae08cabe",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "17e58f1c599d100e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "6b635896b5d96e9a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "PDF's facul/SQL/P2/Administração de Sistemas de Informação – B1 - Especificacao_Trabalho_Parte1.pdf",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
+          },
+          {
+            "id": "d57e5d48363737fd",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "409cef06ce94d74a",
+            "type": "leaf",
+            "state": {
+              "type": "r-environment-view",
+              "state": {},
+              "icon": "table",
+              "title": "R Environment"
+            }
+          }
+        ],
+        "currentTab": 6
+      },
+      {
+        "id": "07168859cfc93ab2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3cf364ee49481af",
+            "type": "leaf",
+            "state": {
+              "type": "r-help-view",
+              "state": {},
+              "icon": "info",
+              "title": "R Help"
+            }
+          }
+        ]
+      }
+    ],
     "direction": "horizontal",
     "width": 1105.6000000000001,
     "collapsed": true
@@ -145,56 +312,59 @@
       "audio-recorder:Começar/parar a gravação de áudio": false,
       "obsidian-full-calendar:Open Full Calendar": false,
       "obsidian-kanban:Create new board": false,
-      "pg:PostgreSQL connections": false
+      "pg:PostgreSQL connections": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "22d53912eeace123",
+  "active": "7cbd2dbe227fc56a",
   "lastOpenFiles": [
+    "Calendário",
+    "Provas.md",
+    "PDF's facul/SQL/P2/Administração de Sistemas de Informação – B1 - Especificacao_Trabalho_Parte1.pdf",
+    "PDF's facul/SQL/P2/Projeto_Logico_Colega.jpg",
+    "Calendário/2026-11-19 p2 alg linear.md",
+    "Calendário/2026-11-05 trabalho banco dados.md",
+    "2026-11-11 trabalho banco dados.md",
+    "Calendário/2026-11-24 p3 banco dados.md",
+    "Calendário/2026-11-23 P3 calc.md",
+    "PDF's facul/Álgebra Linear/P2/questões/lista5.pdf",
+    "PDF's facul/SQL/P3",
+    "PDF's facul/SQL/P2",
+    "PDF's facul/SQL/P1",
+    "PDF's facul/SQL/P3",
+    "PDF's facul/Combinatória/P2",
+    "PDF's facul/Combinatória/P1",
+    "PDF's facul/Cálculo I/P3",
+    "PDF's facul/Cálculo I/P2",
+    "PDF's facul/Álgebra Linear/questões/lista 5.md",
+    "PDF's facul/Álgebra Linear/questões/lista 4.md",
     "Projetos/PostgreSQL pessoal.md",
+    "Pasted image 20261008052254.png.md",
+    "Projetos/Catalogação de Pacotes e Funções R.md",
+    "Pasted image 20261008170259.png.md",
+    "Ideias/Usando o Github.md",
+    "Disciplinas.md",
     "Ideias/Política e democracia.md",
     "Ideias/Sites HTML, yml, localhost.md",
-    "Pasted image 20261008170259.png.md",
-    "Projetos/Catalogação de Pacotes e Funções R.md",
-    "Concepts_pacote.lais",
     "25-09-26 - 27.09.26 - 29.09.26 - 02.10.26 - 03.10.26 - 05.10.26 - 07.10.26.md",
     "Pasted image 20261008170259.png",
-    "PacotesR",
     "Pasted image 20261008052254.png",
     "Sobre a vida/Diários/📚 Anotações.md",
     "Sobre a vida/Diários/Tive uma ideia.md",
-    "Projetos",
-    "Ideias",
     "Sem título 4.md",
     "Sobre a vida/Diários/Pensativa.md",
     "Sobre a vida/Diários/Ideias de músicas.md",
     "Sobre a vida/Diários/Bom dia.md",
     "14.08.26 - 15.09.26 - 16.09.26 - 17.09.26 - 18.09.26 - 20.09.26 - 21.09.26 - 22.09.26 - 23.09.26 - 24.09.26.md",
     "Untitled Kanban 5.md",
-    "vw_aulas_202609031658.md",
-    "What do my parents feel about me? The response goes deep.md",
-    "05.02.26 Não quero que a faculdade passe batido!.md",
-    "Sobre a vida/Diários/Amanhã.md",
-    "Sobre a vida/Diários/🔒 Evidências de segurança.md",
-    "Sobre a vida/Diários/📘 English Diary.md",
-    "Sobre a vida/Diários/✒️ Escrita.md",
-    "07.09.26.md",
     "Pasted image 20260928133303.png",
     "Pasted image 20260928131039.png",
     "Pasted image 20260928130710.png",
     "Pasted image 20260925062506.png",
     "Pasted image 20260924065200.png",
     "Pasted image 20260924061547.png",
-    "Pasted image 20260924060310.png",
-    "Pasted image 20260924055119.png",
-    "series_202609070738.md",
-    "06.09.26 - 07.09.26 - 08.09.26 - 09.09.26 - 11.09.26 - 12.09.26 - 13.09.26.md",
-    "Calendário/2026-02-27 Fim das inscrições em disciplinas a partir das 12h.md",
-    "Calendário/2026-02-24 Início das incrições em disciplinas a partir de 12h.md",
-    "Sem título.base",
-    "Acesso rápido.base",
-    "Dicionário",
-    "Imagens/Animações Archive",
-    "Sobre a vida/Produtividade/Livros",
-    "Imagens/Estética"
+    "Pasted image 20260924060310.png"
   ]
 }

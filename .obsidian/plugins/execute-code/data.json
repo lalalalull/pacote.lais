@@ -106,7 +106,7 @@
   "RArgs": "",
   "REmbedPlots": true,
   "RFileExtension": "R",
-  "rInject": "library(matlib)\nlibrary(pacote.lais)\n",
+  "rInject": "library(matlib)\nlibrary(pacote.lais)\nlibrary(dplyr)\nlibrary(ggplot2)\nlibrary(DBI)\nlibrary(RPostgres)\n\ncon <- dbConnect(\n  RPostgres::Postgres(),\n  dbname   = \"postgres\",\n  host     = \"localhost\",      \n  port     = 5432,             \n  user     = \"postgres\", \n  password = \"newkitty\"\n)\n\n",
   "kotlinPath": "kotlinc",
   "kotlinArgs": "-script",
   "kotlinFileExtension": "kts",

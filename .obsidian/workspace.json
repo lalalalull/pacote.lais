@@ -4,63 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7ba4e625a977951f",
+        "id": "2970824589a3522e",
         "type": "tabs",
         "children": [
           {
-            "id": "5bdf059d299288df",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
-            "id": "22d53912eeace123",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projetos/Catalogação de Pacotes e Funções R.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Catalogação de Pacotes e Funções R"
-            }
-          },
-          {
-            "id": "cf319b5d1ec13490",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projetos/PostgreSQL pessoal.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "PostgreSQL pessoal"
-            }
-          },
-          {
-            "id": "461a978b7a88fa13",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ideias/Política e democracia.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Política e democracia"
-            }
-          },
-          {
-            "id": "dffbc2f513fcf452",
+            "id": "328f7af4429f1a4d",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -70,43 +18,45 @@
             }
           },
           {
-            "id": "7cbd2dbe227fc56a",
+            "id": "1beab6064183b793",
+            "type": "leaf",
+            "state": {
+              "type": "html-direct-reader-view",
+              "state": {
+                "file": "Catálogo de funções/index.html"
+              },
+              "icon": "globe",
+              "title": "index.html"
+            }
+          },
+          {
+            "id": "ea0f4c9045678167",
+            "type": "leaf",
+            "state": {
+              "type": "html-direct-reader-view",
+              "state": {
+                "file": "Catálogo de funções/index.html"
+              },
+              "icon": "globe",
+              "title": "index.html"
+            }
+          },
+          {
+            "id": "859182ccc505c17a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ideias/Usando o Github.md",
+                "file": "Projetos/Organização PostgreSQL + Obsidian + R + Anki/Usando o Github.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Usando o Github"
             }
-          },
-          {
-            "id": "d65033de1740db09",
-            "type": "leaf",
-            "state": {
-              "type": "full-calendar-view",
-              "state": {},
-              "icon": "calendar-glyph",
-              "title": "Calendar"
-            }
-          },
-          {
-            "id": "78a3b35abdab18a5",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "PDF's facul/SQL/P2/Projeto_Logico_Colega.jpg"
-              },
-              "icon": "lucide-image",
-              "title": "Projeto_Logico_Colega"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -266,7 +216,29 @@
             }
           },
           {
-            "id": "409cef06ce94d74a",
+            "id": "5dc84b3a1ed019c7",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "Catálogo de funções/index.html"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Notas de rodapé"
+            }
+          },
+          {
+            "id": "fb002746eeebb346",
+            "type": "leaf",
+            "state": {
+              "type": "pg-query-result",
+              "state": {},
+              "icon": "postgres",
+              "title": "SQL results"
+            }
+          },
+          {
+            "id": "1610e9ab54979a5e",
             "type": "leaf",
             "state": {
               "type": "r-environment-view",
@@ -276,14 +248,14 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       },
       {
-        "id": "07168859cfc93ab2",
+        "id": "e9ef7165b7e78c85",
         "type": "tabs",
         "children": [
           {
-            "id": "b3cf364ee49481af",
+            "id": "083ce606d506ea01",
             "type": "leaf",
             "state": {
               "type": "r-help-view",
@@ -296,75 +268,75 @@
       }
     ],
     "direction": "horizontal",
-    "width": 1105.6000000000001,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Abrir a troca rápida": false,
-      "graph:Abrir visualização em gráfico": false,
       "canvas:Criar novo canvas": false,
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
+      "graph:Abrir visualização em gráfico": false,
       "command-palette:Abrir paleta de comandos": false,
       "bases:Criar nova base": false,
       "workspaces:Gerenciar leiautes da área de trabalho": false,
       "audio-recorder:Começar/parar a gravação de áudio": false,
       "obsidian-full-calendar:Open Full Calendar": false,
-      "obsidian-kanban:Create new board": false,
-      "pg:PostgreSQL connections": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "flashcards-obsidian:Update Anki from current note": false,
+      "pg:PostgreSQL connections": false
     }
   },
-  "active": "7cbd2dbe227fc56a",
+  "active": "859182ccc505c17a",
   "lastOpenFiles": [
-    "Calendário",
-    "Provas.md",
-    "PDF's facul/SQL/P2/Administração de Sistemas de Informação – B1 - Especificacao_Trabalho_Parte1.pdf",
-    "PDF's facul/SQL/P2/Projeto_Logico_Colega.jpg",
-    "Calendário/2026-11-19 p2 alg linear.md",
+    "meu_diagrama.svg",
+    "Catálogo de funções/index.html",
+    "PostgreSQL Backup/postgres.dump",
+    "postgres.dump",
+    "PostgreSQL Backup",
+    "Catálogo de funções/Ideias de CSS.md",
+    "Ideias/Probabilidade e sua relação com cálculo/Histogramas e FDP.md",
+    "PDF's facul/Cálculo I/ementa.pdf",
+    "PDF's facul/Cálculo I/P3/Anotações.md",
+    "plots/plot_8b940be7_1_20261017092331.jpg",
+    "plots/plot_8c1f1046_1_20261017092341.jpg",
+    "plots/plot_8c1f1046_1_20261017094142.jpg",
+    "plots/plot_8b940be7_1_20261017094118.jpg",
+    "plots/plot_8b940be7_1_20261017091307.jpg",
+    "plots/plot_8c1f1046_1_20261017091252.jpg",
+    "plots/plot_8c1f1046_1_20261017091206.jpg",
+    "plots/plot_8b940be7_1_20261017091045.jpg",
+    "plots/plot_8b940be7_1_20261017091020.jpg",
+    "plots/plot_71ee45a3_1_20261017090713.jpg",
+    "Ideias/Probabilidade e sua relação com cálculo/Histogramas e FDP",
+    "Ideias/Probabilidade e sua relação com cálculo",
+    "PDF's facul/Cálculo I/P3/anotações",
+    "Projetos/Organização PostgreSQL + Obsidian + R + Anki/Catalogação de funções/Sites HTML, yml, localhost.md",
     "Calendário/2026-11-05 trabalho banco dados.md",
-    "2026-11-11 trabalho banco dados.md",
-    "Calendário/2026-11-24 p3 banco dados.md",
+    "Catálogo de funções/imagens",
+    "Concepts_pacote.lais/slice of love ♡.html",
+    "Projetos/Organização PostgreSQL + Obsidian + R + Anki/PostgreSQL pessoal.md",
     "Calendário/2026-11-23 P3 calc.md",
-    "PDF's facul/Álgebra Linear/P2/questões/lista5.pdf",
-    "PDF's facul/SQL/P3",
-    "PDF's facul/SQL/P2",
-    "PDF's facul/SQL/P1",
-    "PDF's facul/SQL/P3",
-    "PDF's facul/Combinatória/P2",
-    "PDF's facul/Combinatória/P1",
-    "PDF's facul/Cálculo I/P3",
-    "PDF's facul/Cálculo I/P2",
-    "PDF's facul/Álgebra Linear/questões/lista 5.md",
-    "PDF's facul/Álgebra Linear/questões/lista 4.md",
-    "Projetos/PostgreSQL pessoal.md",
-    "Pasted image 20261008052254.png.md",
-    "Projetos/Catalogação de Pacotes e Funções R.md",
-    "Pasted image 20261008170259.png.md",
-    "Ideias/Usando o Github.md",
-    "Disciplinas.md",
+    "Calendário/2026-11-19 p2 alg linear.md",
+    "Projetos/Organização PostgreSQL + Obsidian + R + Anki/Pacotes para aprender/Aprender ggplot2.md",
+    "Projetos/Organização PostgreSQL + Obsidian + R + Anki/Pacotes para aprender/Aprender dplyr.md",
+    "PDF's facul/Álgebra Linear/P2/Anotações/Resolvendo lista 4.md",
+    "PDF's facul/Álgebra Linear/P2/Anotações/Resolvendo a lista 5.md",
+    "Projetos/Organização PostgreSQL + Obsidian + R + Anki/Criar gráficos R + Postgresql.md",
+    "Projetos/Organização PostgreSQL + Obsidian + R + Anki/Usando o Github.md",
+    "Projetos/Organização PostgreSQL + Obsidian + R + Anki/Catalogação de funções/Catalogação de Pacotes e Funções R.md",
+    "Projetos/Organização PostgreSQL + Obsidian + R + Anki/Organizando Obsidian.md",
     "Ideias/Política e democracia.md",
-    "Ideias/Sites HTML, yml, localhost.md",
-    "25-09-26 - 27.09.26 - 29.09.26 - 02.10.26 - 03.10.26 - 05.10.26 - 07.10.26.md",
-    "Pasted image 20261008170259.png",
-    "Pasted image 20261008052254.png",
-    "Sobre a vida/Diários/📚 Anotações.md",
-    "Sobre a vida/Diários/Tive uma ideia.md",
-    "Sem título 4.md",
-    "Sobre a vida/Diários/Pensativa.md",
-    "Sobre a vida/Diários/Ideias de músicas.md",
-    "Sobre a vida/Diários/Bom dia.md",
-    "14.08.26 - 15.09.26 - 16.09.26 - 17.09.26 - 18.09.26 - 20.09.26 - 21.09.26 - 22.09.26 - 23.09.26 - 24.09.26.md",
-    "Untitled Kanban 5.md",
-    "Pasted image 20260928133303.png",
-    "Pasted image 20260928131039.png",
-    "Pasted image 20260928130710.png",
-    "Pasted image 20260925062506.png",
-    "Pasted image 20260924065200.png",
-    "Pasted image 20260924061547.png",
-    "Pasted image 20260924060310.png"
+    "Ideias/Modo de pensar econômico.md",
+    "PDF's facul/Álgebra Linear/P2/Matrizes Transpostas ortogonais, Rotação e outros.md",
+    "Projetos/Sistema de regulação emocional com sql+R+Obsidian.md",
+    "PDF's facul/SQL/P2/Anotações/Trabalho em grupo - Modelo lógico.md",
+    "Livros/De como filosofar/Notas.md",
+    "Livros/Economia Modo de Usar/Notas.md",
+    "Livros/Inventing the Mathematician/Notas.md",
+    "Provas.md"
   ]
 }

@@ -1,0 +1,40 @@
+body{
+  font-family: WritePix16;
+  background-image: url('imagens/nuvens.gif');
+  padding-top: 0px;
+  color: #ffffff;
+  margin: 4px;
+}
+h1{
+ text-align: left;
+ font-family:'04b';
+ color: #ffffff80;
+}
+h2{
+    text-align: center;
+    font-family: WritePix16;
+}
+h3{
+    text-align: center;
+    font-family: WritePix16;
+    background-image: url('/imagens/tempestade.png');
+    padding: 4px;
+}
+h4{
+    font-family: Courier;
+}
+p{
+ color: #e3b9f3;
+ font-family: pix32;
+}
+
+
+}
+.bloco_principal{
+    display: grid;
+    grid-template-columns: 1fr 4fr 3fr;
+    grid-template-rows: auto auto auto;
+    background-image: linear-gradient(to right, #ffffff36, #d7c5f596);
+
+}
+

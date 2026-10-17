@@ -1,9 +1,10 @@
 {
-  "cssTheme": "Ukiyo",
-  "theme": "obsidian",
+  "cssTheme": "Shiba Inu",
+  "theme": "moonstone",
   "accentColor": "#9047b8",
   "textFontFamily": "Calibri",
   "monospaceFontFamily": "Source Code Pro",
   "interfaceFontFamily": "Source Code Pro",
-  "baseFontSize": 17
+  "baseFontSize": 17,
+  "nativeMenus": true
 }

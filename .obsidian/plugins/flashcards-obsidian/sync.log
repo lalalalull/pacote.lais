@@ -1,0 +1,66 @@
+2026-10-12T10:37:25.027Z [INFO] plugin loaded {"version":"2.2.0"}
+2026-10-12T10:51:18.337Z [INFO] syncVault start {"noteCount":10,"processedNoteCount":10,"skippedUnchangedNoteCount":0}
+2026-10-12T10:51:18.339Z [INFO] syncNote start {"notePath":"Projetos/Organizando Obsidian.md"}
+2026-10-12T10:51:18.409Z [INFO] bootstrap: creating missing model {"model":"Obsidian-basic"}
+2026-10-12T10:51:18.488Z [INFO] bootstrap: creating missing model {"model":"Obsidian-basic-reversed"}
+2026-10-12T10:51:18.534Z [INFO] bootstrap: creating missing model {"model":"Obsidian-cloze"}
+2026-10-12T10:51:18.633Z [INFO] bootstrap: creating missing model {"model":"Obsidian-reminder"}
+2026-10-12T10:51:18.867Z [INFO] syncNote ok {"notePath":"Projetos/Organizando Obsidian.md","okCreates":1,"okUpdates":0,"okDeletes":0,"failedOps":0}
+2026-10-12T10:51:18.867Z [INFO] syncNote start {"notePath":"Projetos/PostgreSQL pessoal.md"}
+2026-10-12T10:51:18.883Z [INFO] syncNote start {"notePath":"Projetos/Catalogação de Pacotes e Funções R.md"}
+2026-10-12T10:51:18.887Z [INFO] syncNote start {"notePath":"Ideias/Sites HTML, yml, localhost.md"}
+2026-10-12T10:51:18.889Z [INFO] syncNote start {"notePath":"Ideias/Usando o Github.md"}
+2026-10-12T10:51:18.891Z [INFO] syncNote start {"notePath":"Ideias/Política e democracia.md"}
+2026-10-12T10:51:18.891Z [INFO] syncNote start {"notePath":"Calendário/2026-11-24 p3 banco dados.md"}
+2026-10-12T10:51:18.891Z [INFO] syncNote start {"notePath":"Calendário/2026-11-23 P3 calc.md"}
+2026-10-12T10:51:18.892Z [INFO] syncNote start {"notePath":"Calendário/2026-11-19 p2 alg linear.md"}
+2026-10-12T10:51:18.892Z [INFO] syncNote start {"notePath":"Calendário/2026-11-05 trabalho banco dados.md"}
+2026-10-12T10:51:18.892Z [INFO] syncVault end {"noteCount":10,"processedNoteCount":10,"skippedUnchangedNoteCount":0,"totalCreates":1,"totalUpdates":0,"totalDeletes":0,"failedNotes":0}
+2026-10-12T10:56:58.649Z [INFO] plugin loaded {"version":"2.2.0"}
+2026-10-12T17:21:40.227Z [INFO] plugin loaded {"version":"2.2.0"}
+2026-10-13T10:19:16.012Z [INFO] plugin loaded {"version":"2.2.0"}
+2026-10-13T10:53:28.948Z [INFO] plugin loaded {"version":"2.2.0"}
+2026-10-13T11:03:36.993Z [INFO] plugin loaded {"version":"2.2.0"}
+2026-10-13T13:02:40.507Z [INFO] syncNote start {"notePath":"PDF's facul/Álgebra Linear/P2/Anotações/Resolvendo lista 4.md"}
+2026-10-13T13:02:40.931Z [INFO] syncNote ok {"notePath":"PDF's facul/Álgebra Linear/P2/Anotações/Resolvendo lista 4.md","okCreates":2,"okUpdates":0,"okDeletes":0,"failedOps":0}
+2026-10-13T13:11:33.402Z [INFO] syncNote start {"notePath":"PDF's facul/Álgebra Linear/P2/Anotações/Resolvendo lista 4.md"}
+2026-10-13T13:11:33.461Z [INFO] syncNote pending deletion {"notePath":"PDF's facul/Álgebra Linear/P2/Anotações/Resolvendo lista 4.md","blockId":"q-rw49","nid":1791896560779,"deckName":"PDF's facul::Álgebra Linear::P2::Anotações"}
+2026-10-13T13:11:33.461Z [INFO] syncNote pending deletion {"notePath":"PDF's facul/Álgebra Linear/P2/Anotações/Resolvendo lista 4.md","blockId":"q-p3fk","nid":1791896560852,"deckName":"PDF's facul::Álgebra Linear::P2::Anotações"}
+2026-10-13T13:11:56.238Z [ERROR] syncNote failed during sync execution {"notePath":"PDF's facul/Álgebra Linear/P2/Anotações/Resolvendo lista 4.md","error":"Cannot reach AnkiConnect at http://127.0.0.1:8765. Start Anki, confirm the AnkiConnect add-on is installed, and try again."}
+2026-10-13T13:12:22.391Z [INFO] syncNote start {"notePath":"PDF's facul/Álgebra Linear/P2/Anotações/Resolvendo lista 4.md"}
+2026-10-13T13:12:22.432Z [INFO] syncNote pending deletion {"notePath":"PDF's facul/Álgebra Linear/P2/Anotações/Resolvendo lista 4.md","blockId":"q-rw49","nid":1791896560779,"deckName":"PDF's facul::Álgebra Linear::P2::Anotações"}
+2026-10-13T13:12:22.432Z [INFO] syncNote pending deletion {"notePath":"PDF's facul/Álgebra Linear/P2/Anotações/Resolvendo lista 4.md","blockId":"q-p3fk","nid":1791896560852,"deckName":"PDF's facul::Álgebra Linear::P2::Anotações"}
+2026-10-13T13:12:36.862Z [INFO] syncNote ok {"notePath":"PDF's facul/Álgebra Linear/P2/Anotações/Resolvendo lista 4.md","okCreates":1,"okUpdates":0,"okDeletes":2,"failedOps":0}
+2026-10-13T17:11:45.125Z [INFO] plugin loaded {"version":"2.2.0"}
+2026-10-14T10:16:29.696Z [INFO] plugin loaded {"version":"2.2.0"}
+2026-10-14T10:25:09.499Z [INFO] plugin loaded {"version":"2.2.0"}
+2026-10-14T11:15:43.710Z [INFO] plugin loaded {"version":"2.2.0"}
+2026-10-14T16:10:10.043Z [INFO] plugin loaded {"version":"2.2.0"}
+2026-10-15T08:06:49.360Z [INFO] plugin loaded {"version":"2.2.0"}
+2026-10-15T11:59:57.804Z [INFO] plugin loaded {"version":"2.2.0"}
+2026-10-15T14:01:32.945Z [INFO] plugin loaded {"version":"2.2.0"}
+2026-10-15T15:40:41.845Z [INFO] plugin loaded {"version":"2.2.0"}
+2026-10-15T15:53:06.934Z [INFO] plugin loaded {"version":"2.2.0"}
+2026-10-15T22:36:38.349Z [INFO] plugin loaded {"version":"2.2.0"}
+2026-10-15T22:42:36.606Z [INFO] plugin loaded {"version":"2.2.0"}
+2026-10-16T10:23:42.933Z [INFO] plugin loaded {"version":"2.2.0"}
+2026-10-16T10:45:44.139Z [INFO] plugin loaded {"version":"2.2.0"}
+2026-10-16T10:46:20.210Z [INFO] plugin loaded {"version":"2.2.0"}
+2026-10-16T10:48:19.429Z [INFO] plugin loaded {"version":"2.2.0"}
+2026-10-16T10:48:47.546Z [INFO] plugin loaded {"version":"2.2.0"}
+2026-10-16T10:59:15.722Z [INFO] plugin loaded {"version":"2.2.0"}
+2026-10-16T11:41:55.362Z [INFO] plugin loaded {"version":"2.2.0"}
+2026-10-16T14:19:39.252Z [INFO] plugin loaded {"version":"2.2.0"}
+2026-10-16T16:06:02.689Z [INFO] plugin loaded {"version":"2.2.0"}
+2026-10-16T17:43:04.631Z [INFO] plugin loaded {"version":"2.2.0"}
+2026-10-16T18:52:28.078Z [INFO] syncNote start {"notePath":"PDF's facul/Cálculo I/P3/Anotações.md"}
+2026-10-16T18:52:28.435Z [INFO] syncNote ok {"notePath":"PDF's facul/Cálculo I/P3/Anotações.md","okCreates":2,"okUpdates":0,"okDeletes":0,"failedOps":0}
+2026-10-16T19:11:04.199Z [INFO] syncNote start {"notePath":"PDF's facul/Cálculo I/P3/Anotações.md"}
+2026-10-16T19:11:04.348Z [INFO] syncNote pending deletion {"notePath":"PDF's facul/Cálculo I/P3/Anotações.md","blockId":"q-btbq","nid":1792176748407,"deckName":"PDF's facul::Cálculo I::P3"}
+2026-10-16T19:11:15.196Z [WARN] CREATE failed {"blockId":"q-qciu","error":"cannot create note because it is a duplicate"}
+2026-10-16T19:11:15.430Z [INFO] syncNote ok {"notePath":"PDF's facul/Cálculo I/P3/Anotações.md","okCreates":3,"okUpdates":0,"okDeletes":1,"failedOps":1}
+2026-10-16T23:14:56.502Z [INFO] plugin loaded {"version":"2.2.0"}
+2026-10-16T23:19:45.648Z [INFO] plugin loaded {"version":"2.2.0"}
+2026-10-17T09:59:55.487Z [INFO] plugin loaded {"version":"2.2.0"}
+2026-10-17T10:28:50.010Z [INFO] plugin loaded {"version":"2.2.0"}
+2026-10-17T11:27:57.638Z [INFO] plugin loaded {"version":"2.2.0"}
